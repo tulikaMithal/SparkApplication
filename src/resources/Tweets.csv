@@ -1,0 +1,9 @@
+tweet_id,airline_sentiment,airline_sentiment_confidence,negativereason,negativereason_confidence,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,text,tweet_coord,tweet_created,tweet_location,user_timezone
+5.70306E+17,neutral,1,,,Virgin America,,cairdin,,0,@VirginAmerica What @dhepburn said.,,24-02-2015 11:35,,Eastern Time (US & Canada)
+5.70301E+17,positive,0.3486,,0,Virgin America,,jnardino,,0,@VirginAmerica plus you've added commercials to the experience... tacky.,,24-02-2015 11:15,,Pacific Time (US & Canada)
+5.70301E+17,neutral,0.6837,,,Virgin America,,yvonnalynn,,0,@VirginAmerica I didn't today... Must mean I need to take another trip!,,24-02-2015 11:15,Lets Play,Central Time (US & Canada)
+5.70301E+17,negative,1,Bad Flight,0.7033,Virgin America,,jnardino,,0,"@VirginAmerica it's really aggressive to blast obnoxious ""entertainment"" in your guests' faces &amp; they have little recourse",,24-02-2015 11:15,,Pacific Time (US & Canada)
+5.70301E+17,negative,1,Can't Tell,1,Virgin America,,jnardino,,0,@VirginAmerica and it's a really big bad thing about it,,24-02-2015 11:14,,Pacific Time (US & Canada)
+5.70301E+17,negative,1,Can't Tell,0.6842,Virgin America,,jnardino,,0,"@VirginAmerica seriously would pay $30 a flight for seats that didn't have this playing.
+it's really the only bad thing about flying VA",,24-02-2015 11:14,,Pacific Time (US & Canada)
+5.70301E+17,positive,0.6745,,0,Virgin America,,cjmcginnis,,0,"@VirginAmerica yes, nearly every time I fly VX this “ear worm” won’t go away :)",,24-02-2015 11:13,San Francisco CA,Pacific Time (US & Canada)
